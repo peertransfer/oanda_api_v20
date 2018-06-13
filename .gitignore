@@ -2,3 +2,5 @@
 oanda_api_v20-*.gem
 Gemfile.lock
 .DS_Store
+.bundle/
+vendor
